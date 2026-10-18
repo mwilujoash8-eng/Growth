@@ -1,0 +1,6 @@
+{
+  "name": "FaceFly AI",
+  "description": "Enterprise aviation biometric identity and passenger-processing platform with multi-station boarding clearance and airline subscription billing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
